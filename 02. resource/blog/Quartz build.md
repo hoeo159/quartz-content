@@ -1,8 +1,9 @@
 ---
-title: build
+title: Quartz build
 tags:
   - quartz
 created: 2026-09-07
+aliases:
 ---
 	
 
